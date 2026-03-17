@@ -4,3 +4,6 @@ yolov5/runs/
 alert.jpg
 alert.wav
 *.pyc
+static/* linguist-vendored
+templates/* linguist-vendored
+yolov5/* linguist-vendored
